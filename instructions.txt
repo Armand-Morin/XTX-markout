@@ -1,5 +1,3 @@
-
-
 GMMAUSD, LMDAUSD, ZTAUSD, BTAUSD are four hypothetical instruments. For each instrument,
 you are given:
 * some metadata (<instrument>.json)
