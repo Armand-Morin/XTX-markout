@@ -17,8 +17,7 @@
 **For each instrument, you are to deliver the following:**
 - A plot visualizing both the market data and the trades, for an interesting 1 hour period of your choice.
 
-- A plot visualizing the aggregate markout curve of all trades for the symbol, using the intervals specified 
-    in the file "horizon_ticks". Please ensure your curve shows "margin" - i.e. PNL normalized by volume.
+- A plot visualizing the aggregate markout curve of all trades for the symbol, using the intervals specified in the file "horizon_ticks". Please ensure your curve shows "margin" - i.e. PNL normalized by volume.
 
 - For example, if the file horizon_ticks contained the following intervals: [0, 100, 200], the pnl-markout curve for a trade dealt at time t would show 3 datapoints: the PNL of the trade at time t, t+100ms, t+200ms. 
 
